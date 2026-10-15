@@ -3,8 +3,7 @@
 # Gustavo Leimbek 👨‍💻
 
 ## 📍 Contact
-Las Vegas, NV  
-📞 (725) 600-1802  
+Las Vegas, NV   
 📧 gleimbek@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/gleimbek/
 
@@ -21,8 +20,8 @@ Focused on problem-solving, teaching, and delivering functional web solutions.
 
 ### Web Development (Freelancer)
 - Built and maintained websites and web applications
-- Led 150+ development projects improving engagement and learning outcomes
-- Provided technical consulting to companies improving security and performance
+- Led 150+ development projects, improving engagement and learning outcomes
+- Provided technical consulting to companies, improving security and performance
 
 ### Online Teaching Assistant – College of Southern Nevada
 - Assisted students in HTML, CSS, PHP, MySQL, Java, and responsive design
