@@ -1,11 +1,27 @@
-## Hi, I'm Gustavo 👋
-
 # Gustavo Leimbek 👨‍💻
 
+Web developer and teaching assistant at the College of Southern Nevada. I build websites for clients and web tools for teaching people to code.
+
+Desarrollador web y TA en el College of Southern Nevada. Hago sitios para clientes y herramientas para enseñar a programar.
+
 ## 📍 Contact
-Las Vegas, NV   
+Las Vegas, NV  
+🌐 Portfolio: https://gleimbek.github.io/portfolio/  
 📧 gleimbek@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/gleimbek/
+
+---
+
+## 🚀 Projects you can try
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [TeachPrompt](https://gleimbek.github.io/TeachPrompt/) | Prompt builder for teachers who make classroom graphics with AI. English and Spanish, installable as an app. | JavaScript, PWA |
+| [DevPortal](https://gleimbek.github.io/Devportal/) | Web development course with 16 HTML/CSS modules and timed final exams. | HTML, CSS, JavaScript |
+| [Pronunzia Master](https://gleimbek.github.io/Pronunzia-Master/) | English pronunciation trainer: hear each example word, then record yourself and get feedback. Spanish and English interface. | JavaScript, Web Speech API |
+| [CSN Infographics](https://gleimbek.github.io/infographics) | Study infographics for CIT 144, 151 and 251 students. | HTML, CSS, JavaScript |
+| [Nexus Dashboard](https://github.com/gleimbek/nexus-dashboard) | Admin panel with authentication, user roles and user management. | Laravel, PHP, Tailwind |
+| [ScriptGen AI](https://scriptgen-ai-zeta.vercel.app) | Generates short video scripts for TikTok and Reels. | React, Vite, Claude API |
 
 ---
 
@@ -45,7 +61,7 @@ GPA: 3.98 (Spring 2024)
 ## 🛠️ Skills
 
 ### Programming
-JavaScript, Java, Python, PHP, SQL, MySQL, HTML5, CSS3, WordPress
+JavaScript, Java, Python, PHP, Laravel, React, SQL, MySQL, HTML5, CSS3, WordPress
 
 ### Tools
 Eclipse, IntelliJ IDEA, NetBeans, SQL Server Management Studio, Microsoft Office, Adobe Suite
@@ -56,9 +72,9 @@ Leadership, Problem Solving, Time Management, Communication, Teamwork
 ---
 
 ## 🌍 Languages
-- Spanish: 100%
-- English: 90%
-- Portuguese: 90%
+- Spanish: Native
+- English: Fluent
+- Portuguese: Fluent
 
 ---
 
