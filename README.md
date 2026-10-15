@@ -19,7 +19,7 @@ Las Vegas, NV
 | [TeachPrompt](https://gleimbek.github.io/TeachPrompt/) | Prompt builder for teachers who make classroom graphics with AI. English and Spanish, installable as an app. | JavaScript, PWA |
 | [DevPortal](https://gleimbek.github.io/Devportal/) | Web development course with 16 HTML/CSS modules and timed final exams. | HTML, CSS, JavaScript |
 | [Pronunzia Master](https://gleimbek.github.io/Pronunzia-Master/) | English pronunciation trainer: hear each example word, then record yourself and get feedback. Spanish and English interface. | JavaScript, Web Speech API |
-| [Study Infographics](https://gleimbek.github.io/infographics) | Visual study guides on HTML, CSS and responsive design that I use in my tutoring sessions. | HTML, CSS, JavaScript |
+| [Study Infographics](https://gleimbek.github.io/infographics) | Visual study guides on HTML, CSS and Introduction to Data Analytics that I use in my tutoring sessions. | HTML, CSS, JavaScript |
 | [Nexus Dashboard](https://github.com/gleimbek/nexus-dashboard) | Admin panel with authentication, user roles and user management. | Laravel, PHP, Tailwind |
 | [ScriptGen AI](https://scriptgen-ai-zeta.vercel.app) | Generates short video scripts for TikTok and Reels (demo mode). | React, Vite, Claude API |
 
