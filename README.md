@@ -21,7 +21,7 @@ Las Vegas, NV
 | [Pronunzia Master](https://gleimbek.github.io/Pronunzia-Master/) | English pronunciation trainer: hear each example word, then record yourself and get feedback. Spanish and English interface. | JavaScript, Web Speech API |
 | [CSN Infographics](https://gleimbek.github.io/infographics) | Study infographics for CIT 144, 151 and 251 students. | HTML, CSS, JavaScript |
 | [Nexus Dashboard](https://github.com/gleimbek/nexus-dashboard) | Admin panel with authentication, user roles and user management. | Laravel, PHP, Tailwind |
-| [ScriptGen AI](https://scriptgen-ai-zeta.vercel.app) | Generates short video scripts for TikTok and Reels. | React, Vite, Claude API |
+| [ScriptGen AI](https://scriptgen-ai-zeta.vercel.app) | Generates short video scripts for TikTok and Reels (demo mode). | React, Vite, Claude API |
 
 ---
 
