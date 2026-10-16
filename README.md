@@ -16,6 +16,7 @@ Las Vegas, NV
 
 | Project | What it is | Built with |
 | --- | --- | --- |
+| [JC Events appointments](https://jc-events-appointment.onrender.com/) | Appointment booking app for an event business. Customers book from their phone; the owner manages bookings and services from a dashboard. | PHP, MySQL, PWA |
 | [TeachPrompt](https://gleimbek.github.io/TeachPrompt/) | Prompt builder for teachers who make classroom graphics with AI. English and Spanish, installable as an app. | JavaScript, PWA |
 | [DevPortal](https://gleimbek.github.io/Devportal/) | Web development course with 16 HTML/CSS modules and timed final exams. | HTML, CSS, JavaScript |
 | [Pronunzia Master](https://gleimbek.github.io/Pronunzia-Master/) | English pronunciation trainer: hear each example word, then record yourself and get feedback. Spanish and English interface. | JavaScript, Web Speech API |
@@ -26,7 +27,7 @@ Las Vegas, NV
 ---
 
 ## 🧑‍💻 Professional Summary
-Web developer with 3+ years of experience building interactive web applications.  
+Web developer with 3+ years building websites and web applications, and 15+ years in technical support.  
 Skilled in JavaScript, HTML5, CSS3, PHP, SQL, MySQL, WordPress, and Java.  
 Focused on problem-solving, teaching, and delivering functional web solutions.
 
@@ -34,17 +35,17 @@ Focused on problem-solving, teaching, and delivering functional web solutions.
 
 ## 💼 Experience
 
-### Web Development (Freelancer)
-- Built and maintained websites and web applications
-- Led 150+ development projects, improving engagement and learning outcomes
-- Provided technical consulting to companies, improving security and performance
+### Web Development (Freelancer, 3+ years)
+- Build websites and web apps for small businesses, including an appointment system for an event company
+- Build interactive learning tools for teachers and students
+- Provide technical consulting on security and performance
 
 ### Online Teaching Assistant – College of Southern Nevada
 - Assisted students in HTML, CSS, PHP, MySQL, Java, and responsive design
-- Improved student performance through tutoring and feedback
+- Tutor students remotely and give feedback on their assignments
 - Supported course development and progress tracking
 
-### IT Remote Support (2016–Present)
+### IT Remote Support (15+ years)
 - Installed and configured software and systems remotely
 - Trained users and improved productivity
 - Resolved technical issues and supported IT infrastructure
@@ -73,8 +74,8 @@ Leadership, Problem Solving, Time Management, Communication, Teamwork
 
 ## 🌍 Languages
 - Spanish: Native
-- English: Fluent
-- Portuguese: Fluent
+- English: High Intermediate (CASAS)
+- Portuguese: Advanced
 
 ---
 
